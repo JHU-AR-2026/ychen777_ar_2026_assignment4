@@ -1,4 +1,4 @@
-# Assignment 4 — Introduction to Augmented Reality
+# Assignment 4
 
 **Name:** Yao Chen  
 **JHED:** ychen777
