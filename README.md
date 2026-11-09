@@ -26,5 +26,5 @@ Each script displays a plot. Random simulation noise means repeated runs may pro
 2. Open `Assets/Scenes/SampleScene.unity` and enter Play mode.
 3. Click **Start**. Use **WASD / arrow keys** to move and **Space** to jump.
 4. Collect the cubes, including the elevated cubes. After all cubes are collected, collect the power-up capsule to change color, gain speed, and activate the on-screen power-up indicator.
-5. Break the special wall while powered up, then jump the gap into the goal zone to display the win message.
+5. Break the special wall while powered up, make sure you move the ball to the edge of the plane, then jump the gap into the goal zone to display the win message.
 
